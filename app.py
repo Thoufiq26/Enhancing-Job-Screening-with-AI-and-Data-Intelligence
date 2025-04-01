@@ -20,8 +20,8 @@ CORS(app)
 # Email configuration
 SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 587
-SENDER_EMAIL = 'thoufiqaa11@gmail.com'  # Replace with your email
-SENDER_PASSWORD = 'oengagrjfoiknsmx'  # Replace with your email password
+SENDER_EMAIL = 'your-mail'  # Replace with your email
+SENDER_PASSWORD = 'your-password'  # Replace with your email password
 
 # SQLite Database setup
 DATABASE = 'recruitment.db'
